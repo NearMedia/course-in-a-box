@@ -3,31 +3,15 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+## Work through Real-World Ethical Dilemmas
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
-in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
-don't know anyone.
+Pakistan is not an easy country to work in for journalists. The work is dangerous. People are corrupt. The rules are unclear.
 
-In a stellar learning experience, you'd know who was in the room and feel super-comfy.
-You'd make projects together and find help when you get stuck. You'd want to send people
-thank-you cards and chicken soup.
-
-We know designing a creative, participatory community can be tricky. We're here to help
-you **craft assignments** that rule, **build an audience** and support you along the way. You'll
-even learn a few technical skills in the process. Don't worry, 1s and 0s wash off
-pretty easily.
+There are no easy answers. What we offer is help in thinking about the ethical problems that journalists face every day.
 		
-## OK, but who are you guys?
+## OK, but who are you?
 
-We're [Peer 2 Peer University](http://p2pu.org)--we build learning communities
-on the web. In the last 5 years, we put together courses like 
-[Play With Your Music](http://www.playwithyourmusic.org/),
-[Learning Creative Learning](http://learn.media.mit.edu/lcl/), the
-[Deeper Learning MOOC](http://dlmooc.deeper-learning.org/), and
-[A Gentle Intro to Python](http://mechanicalmooc.org/). 
-Also, we're a non-profit and a distributed team (so we use the tools we recommend).
+We're [NearMedia](http://nearmediallc.com). We help journalists around the world improve their skills. Right now, we're working in Pakistan with a local nonprofit called [Media Foundation 360] (http://mediafoundation360.org) to form a national news cooperative called [News Lens Pakistan] (http://newslens.pk). 
 
-			
 ## I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to create your own course!
+Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to start the course!
